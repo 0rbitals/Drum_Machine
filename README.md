@@ -1,3 +1,3 @@
 # Drum Machine
 
-FCC Front-End project
+Front-End project made for FreeCodeCamp
